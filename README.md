@@ -7,3 +7,4 @@ the repository is built step by step in the tutorial.
 
 It now includes steps for Github
 
+ now i am working with Git and Github
